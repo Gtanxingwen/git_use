@@ -26,7 +26,12 @@
   git push
 ```
 >git stash
->git stash pop
+```
+  ## stash
+  git stash
+  ## stash pop
+  git stash pop
+```
 >git reset
 ```
   ## 但是 reset 的本质并不是删除了 commit，
